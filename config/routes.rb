@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :leads
   root :to => "welcome#home"
   get 'welcome/home'
   get 'welcome/about'
