@@ -1,24 +1,15 @@
-# README
+# RapidCRM(Rapid Customer Management System)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+RapidCRM Web App is an Advanced Customer Management System Created by Debasish.
 
-Things you may want to cover:
+The RapidCRM Program uses:
 
-* Ruby version
+* Ruby: 3.0.2
 
-* System dependencies
+* Ruby on Rails: 6.1.4
 
-* Configuration
+* GitHub
 
-* Database creation
+* Database: MySQL
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Heroku
